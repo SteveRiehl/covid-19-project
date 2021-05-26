@@ -1,7 +1,8 @@
 COVID-19 Hospitalization Analysis Project
 
 Data
-https://drive.google.com/file/d/1Aswblk21R1i3dIqrecmUVKOQZBkoBRfV/view?usp=sharing
+- Follow data source link at bottom and run data_clean.ipynb
+- Then use covid_hospital_final.ipynb
 
 0) Problem Statement
  
@@ -46,7 +47,8 @@ We reprocessed our final COVID Data, train-test-split our X and y variables, and
 
 DESCRIPTIVE ABSTRACT: Data set contains public information from the CDC.
 
-SOURCES: https://data.cdc.gov
+SOURCES: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4/data
+ 
 
 |Feature|Type|Data set|Description|
 |---|---|---|---|
