@@ -1,5 +1,8 @@
 COVID-19 Hospitalization Analysis Project
 
+Data
+https://drive.google.com/file/d/1Aswblk21R1i3dIqrecmUVKOQZBkoBRfV/view?usp=sharing
+
 0) Problem Statement
  
 Can we predict which COVID-19 probable cases will be admitted to the hospital?
